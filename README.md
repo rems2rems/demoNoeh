@@ -1,3 +1,3 @@
 # demoNoeh
 
-version GH (distante)
+version fusionnée
